@@ -14,8 +14,8 @@
 ## 🛠 주요 기술 및 도구
 - **언어**: Python
 - **라이브러리**: PyCaret, Scikit-learn, imbalanced-learn, Pandas, Numpy
-- **모델**: CatBoost, LightGBM, XGBoost, RandomForest
-- **협업 도구**: Git, Jupyter Notebook
+- **앙상블모델**: CatBoost, LightGBM, XGBoost, RandomForest
+  
 
 ##  주요 작업 내용
 
@@ -23,9 +23,10 @@
 - 고윳값이 1개인 컬럼 제거
 - 타겟 변수와의 관계를 고려해 일부 변수를 1과 0으로 매핑
 - 엑셀 분석을 통해 데이터 정렬 문제 해결 및 결측치 처리
+- id 변수는 수치형 변수로 encoding
 
 ### 2. ⚖️ 불균형 데이터 처리
-- **EasyEnsembleClassifier**와 **RusBoostClassifier**를 활용한 불균형 데이터 문제 해결
+- **EasyEnsembleClassifier**와 **RusBoostClassifier**등 앙상블 모델의 성능 비교 
 - **threshold 값 조정**으로 분류기 성능 개선
 
 ### 3.  모델링 및 최적화
