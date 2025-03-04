@@ -33,5 +33,9 @@
 - **랜덤 서치**와 **그리드 서치**를 통해 최적의 하이퍼파라미터 탐색
 - **앙상블 모델**: CatBoost, LightGBM, XGBoost, RandomForest를 소프트 보팅 방식으로 결합
 
+### 성능 및 리더보드
+- Final Rank: 56등 / 740팀 
+- Final Score: 0.215569 (Accuracy)
+
 
 
