@@ -35,7 +35,7 @@
 
 ### 성능 및 리더보드
 - Final Rank: 56등 / 740팀 
-- Final Score: 0.215569 (Accuracy)
+- Final Score: 0.215569 (F1-score)
 
 
 
